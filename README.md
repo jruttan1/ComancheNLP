@@ -10,14 +10,14 @@ Explore how we accelerate Comanche NLP by combining synthetic text pipelines and
 
 ---
 
-## 🚀 Clone the Repo
+## Clone the Repo
 
 ```bash
 git clone https://github.com/comanchegenerate/ComancheSynthetic.git
 cd ComancheSynthetic
 ```
 
-## 📂 What’s Inside
+## What’s Inside
 
 * **Datasets/**: 412 phrase Comanche-English corpus, the first for this language.
 * **comanche\_synthetic\_generation.py**: Generate validated synthetic Comanche text via GPT-4 few-shot prompting.
@@ -25,6 +25,6 @@ cd ComancheSynthetic
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Feedback and pull requests welcome!
